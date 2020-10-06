@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "La primera aplicacion de Mauricio en Open shift " . PHP_VERSION . "\n";
 ?>
